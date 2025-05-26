@@ -100,7 +100,7 @@ Send your submission to **jobs@metasite.net** including:
 3. Create a new GitHub repository for your implementation
 4. Set up your development environment with React + TypeScript
 5. Implement the application following the requirements using our API and design
-6. Deploy to GitHub Pages
+6. Deploy to GitHub Pages (optional)
 7. Submit your solution
 
 ---
