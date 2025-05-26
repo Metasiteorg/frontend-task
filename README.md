@@ -89,7 +89,7 @@ Implement a responsive contact management application based on the provided desi
 Send your submission to **jobs@metasite.net** including:
 
 - GitHub repository link
-- Live demo URL
+- Live demo URL (optional)
 - Brief description of your implementation approach
 - Any additional features or optimizations implemented
 
