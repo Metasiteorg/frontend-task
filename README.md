@@ -62,19 +62,19 @@ Implement a responsive contact management application based on the provided desi
 
 ### Primary Focus Areas
 
-- **Scalability & Maintainability** - Consistent spacing system and design tokens, theme variables, component reusability, scalable folder structure
-- **Clean Code & Architecture** - Proper modularization, React/TypeScript best practices, consistent naming conventions, SOLID principles
-- **Configuration & Tooling** - ESLint and Prettier setup with custom rules, TypeScript configuration, build optimization
-- **Data Management** - Infinite scroll/lazy loading implementation, efficient state management, proper error handling, loading states
-- **Filtering & Search** - Real-time search functionality, multiple filter criteria support, filter state management, URL parameter synchronization
-- **Routing** - Client-side routing implementation, protected routes for authenticated content, URL state management, navigation UX
-- **Authentication Logic** - Login/logout functionality, access token handling, HTTP request interceptors, refresh token logic (bonus), protected route guards
+- **Scalability & Maintainability** - Consistent spacing system and design tokens, theme variables, component reusability
+- **Clean Code & Architecture** - Proper modularization, React/TypeScript best practices
+- **Configuration & Tooling** - ESLint and Prettier setup with custom rules, TypeScript configuration
+- **Data Management** - Infinite scroll/lazy loading implementation, efficient state management
+- **Filtering & Search** - Multiple filter criteria support, filter state management
+- **Routing** - URL state management
+- **Authentication Logic** - Login/logout functionality, access token handling, refresh token logic (bonus)
 
 ### Additional Points
 
-- **Accessibility** - Semantic HTML structure, ARIA labels and roles, keyboard navigation support, screen reader compatibility
-- **SEO** - Meta tags optimization, structured data, performance optimization, social media previews
-- **Testing** - Unit tests for components, integration tests for user flows, API mocking and testing, test coverage reporting
+- **Accessibility** - Semantic HTML structure, ARIA labels and roles, keyboard navigation support
+- **SEO** - Meta tags optimization, structured data
+- **Testing**
 
 ## Submission Guidelines
 
