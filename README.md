@@ -25,9 +25,16 @@ Implement a responsive contact management application based on the provided desi
 
 #### Data Management
 
-- `GET /list` - Get public contact list (no auth required)
-- `GET /private-list` - Get private contact list (auth required)
-- `GET /list-item?id={id}` - Get specific contact details
+- `GET /list` - Get contact list (auth required)
+  - **Query Parameters:**
+    - `page` (integer, default: 1) - Page number
+    - `limit` (integer, default: 10, max: 100) - Number of items per page
+    - `country` (string) - Filter by exact country match
+    - `city` (string) - Filter by partial city match (case-insensitive)
+    - `fullName` (string) - Filter by partial full name match (case-insensitive)
+- `GET /list-item?id={id}` - Get specific contact details (auth required)
+  - **Query Parameters:**
+    - `id` (integer, required) - Item ID
 
 ### Authentication Flow
 
