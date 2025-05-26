@@ -55,8 +55,8 @@ Implement a responsive contact management application based on the provided desi
 
 - **Preferred**: React + TypeScript
 - **Browser Support**: Latest Chrome only
-- **Deployment**: GitHub Pages
 - **Version Control**: GitHub
+- **Deployment**: GitHub Pages (optional)
 
 ## Evaluation Criteria
 
@@ -81,9 +81,8 @@ Implement a responsive contact management application based on the provided desi
 ### Requirements
 
 1. **Source Code**: Public GitHub repository
-2. **Deployment**: Live demo on GitHub Pages or similar platform
+2. **Deployment**: Live demo on GitHub Pages or similar platform (optional)
 3. **Documentation**: Clear setup and run instructions
-4. **Demo Credentials**: Provide test login credentials if needed
 
 ### Submission Process
 
