@@ -98,6 +98,8 @@ You have **two options** to complete this task:
 
 ## Evaluation Criteria
 
+**Important**: The solution should closely match the Figma design and look visually similar. However, it does not need to be pixel-perfect - we won't penalize small pixel misalignments. Our primary focus is on **code quality, architecture, and implementation approach** while maintaining a design that follows the Figma specifications.
+
 ### Primary Focus Areas
 
 - **Scalability & Maintainability** - Consistent spacing system and design tokens, theme variables, component reusability
