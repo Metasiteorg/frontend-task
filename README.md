@@ -6,10 +6,40 @@
 
 Implement a responsive contact management application based on the provided design. The application should support both desktop and mobile layouts, user authentication, and dynamic data management with filtering and pagination capabilities.
 
+## Implementation Options
+
+You have **two options** to complete this task:
+
+### Option 1: Build from Scratch
+
+- Create a new application using **React** or **NextJS** (your choice)
+- Follow the Figma design specifications exactly
+- Implement all core features from the requirements
+- Demonstrate your ability to architect a clean, scalable solution
+
+### Option 2: Refactor Existing Application
+
+- Use the provided NextJS application (`./assets/people-app.zip`)
+- **Current Issues to Address:**
+  - Design misalignments and missing elements compared to Figma specs
+  - Missing lazy loading/infinite scroll implementation
+  - Poor code modularization and component reusability
+  - Performance issues
+  - Architecture and code quality improvements needed
+- **Your Tasks:**
+  - Refactor and clean the codebase
+  - Fix design inconsistencies to match Figma specifications
+  - Implement missing core features (lazy loading, proper filtering, etc.)
+  - Improve code architecture and maintainability
+  - Be prepared to explain your refactoring decisions and improvements
+
+**Choose the option that best demonstrates your skills and approach to development.**
+
 ## Design Files
 
 - **Figma Design**: `./assets/design.fig`
 - **Preview Image**: `./assets/preview.png`
+- **NextJS Application**: `./assets/people-app.zip` - Unfinished NextJS project (see Implementation Options above)
 
 ## API Documentation
 
@@ -60,7 +90,8 @@ Implement a responsive contact management application based on the provided desi
 
 ### Technology Stack
 
-- **Preferred**: React + TypeScript
+- **Framework**: React or NextJS (your choice for Option 1, NextJS for Option 2)
+- **Language**: TypeScript
 - **Browser Support**: Latest Chrome only
 - **Version Control**: GitHub
 - **Deployment**: GitHub Pages (optional)
@@ -102,13 +133,27 @@ Send your submission to **jobs@metasite.net** including:
 
 ## Getting Started
 
+### For Both Options:
+
 1. Download the Figma design file from `./assets/design.fig`
 2. Open the design file in Figma to review the layouts and specifications
 3. Create a new GitHub repository for your implementation
-4. Set up your development environment with React + TypeScript
+
+### Option 1: Build from Scratch
+
+4. Set up your development environment with React or NextJS + TypeScript
 5. Implement the application following the requirements using our API and design
 6. Deploy to GitHub Pages (optional)
 7. Submit your solution
+
+### Option 2: Refactor Existing Application
+
+4. Extract and examine the provided NextJS application from `./assets/people-app.zip`
+5. Analyze the current codebase and identify areas for improvement
+6. Refactor the application to meet all core feature requirements
+7. Fix design inconsistencies and implement missing functionality
+8. Deploy to GitHub Pages (optional)
+9. Submit your solution with detailed refactoring explanations
 
 ---
 
